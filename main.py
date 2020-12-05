@@ -8,3 +8,5 @@ while True:
       pygame.quit()
       quit("User closed the window...")
       sys.exit()
+      
+    pygame.display.update()
